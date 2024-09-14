@@ -4,5 +4,5 @@
 | Juan A. Piñango  | Alfa  | Venezuela |
 | Abraham Malave | Bravo  | Venezuela |
 | Nesyabel Moreno | Charlie  | Venezuela |
-| Juan C.| Delta | Venezuela |
+| Juan C. Fernandez| Delta | Venezuela |
 
